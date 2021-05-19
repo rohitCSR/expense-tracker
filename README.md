@@ -1,1 +1,1 @@
-## Live Demo [Expense-tracker](https://app.netlify.com/sites/rohitm-expense-tracker)
+## Live Demo:  [Expense-tracker](https://app.netlify.com/sites/rohitm-expense-tracker)
